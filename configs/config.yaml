@@ -1,0 +1,23 @@
+age_bins:
+- 0-17
+- 18-49
+- 50-64
+- 65-74
+- 75+
+national_weights:
+  0-17: 0.15
+  18-49: 0.45
+  50-64: 0.2
+  65-74: 0.1
+  75+: 0.1
+watchlist:
+  coverage_pct_threshold: 15.0
+  risk_rate_threshold: 5.0
+input_files:
+  vaccination_coverage: data/raw/vacc_coverage.csv
+  severe_monthly: data/raw/severe_monthly.csv
+  population: data/raw/population.csv
+outputs:
+  std_rates: outputs/age_standardized_rates.csv
+  watchlist: outputs/county_watchlist.csv
+  dq_report: outputs/dq_report.json

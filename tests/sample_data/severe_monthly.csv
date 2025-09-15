@@ -1,0 +1,21 @@
+month,area,age_group,severe_cases,deaths
+2025-07-01,Taipei City,0-17,1,0
+2025-07-01,Taipei City,18-49,5,1
+2025-07-01,Taipei City,50-64,8,2
+2025-07-01,Taipei City,65-74,10,3
+2025-07-01,Taipei City,75+,12,4
+2025-07-01,Kaohsiung City,0-17,0,0
+2025-07-01,Kaohsiung City,18-49,3,1
+2025-07-01,Kaohsiung City,50-64,5,1
+2025-07-01,Kaohsiung City,65-74,8,2
+2025-07-01,Kaohsiung City,75+,9,3
+2025-08-01,Taipei City,0-17,1,0
+2025-08-01,Taipei City,18-49,5,1
+2025-08-01,Taipei City,50-64,8,2
+2025-08-01,Taipei City,65-74,10,3
+2025-08-01,Taipei City,75+,12,4
+2025-08-01,Kaohsiung City,0-17,0,0
+2025-08-01,Kaohsiung City,18-49,3,1
+2025-08-01,Kaohsiung City,50-64,5,1
+2025-08-01,Kaohsiung City,65-74,8,2
+2025-08-01,Kaohsiung City,75+,9,3
