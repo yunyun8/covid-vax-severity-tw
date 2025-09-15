@@ -21,3 +21,8 @@ outputs:
   std_rates: outputs/age_standardized_rates.csv
   watchlist: outputs/county_watchlist.csv
   dq_report: outputs/dq_report.json
+
+
+vacc_path: tests/sample_data/vacc_coverage.csv
+severe_path: tests/sample_data/severe_cases.csv
+pop_path: tests/sample_data/population.csv
